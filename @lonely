@@ -1,0 +1,29 @@
+
+<-<--------------lonely------------------>->
+
+Have you ever wanted to whip a TUI or terminal based
+application but were disgusted by what's out there?
+
+lonely is a TUI framework to build full terminal based
+applications. 
+Easy? Fast? Intuitive? Low bloat? Expressive? 
+Yes. To all.
+
+What is different? Well.
+HTML/ CSS what do they do? Build applications
+SDL/ Raylib/ SFML/ Pygame what do they do? Build applications
+What's the difference? 
+HTML/ CSS are declarative languages
+SDL/ Raylib/ SFML/ Pygame are written in a procedural way
+
+So? More complicated applications eventually require
+some type of procedural method of writing to remain code-able.
+Is that why we need Javascript? I think so.
+TUIs are simple applications. Maybe the simplest, even!
+But there have been no frameworks that enable the
+user to write code in a more functional/ declarative way to
+make writing code easier and more maintenable.
+
+Therefore, lonely.
+
+<-<--------------lonely------------------>->

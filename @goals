@@ -1,0 +1,18 @@
+<-<--------------lonely------------------>->
+
+  . Convenience is more expensive than complexity(hence, golang)
+  . Readable, highly configurable(~2000 lines of code, maybe?)
+  . Intuitive enough for the average HTML.CSS user
+  . Expressivity is as important as performance(speed, strictly)
+  . Not only hackable, but meant to be hacked if needed
+  . All conveniences other tools might provide
+  . Rapid development
+  . Easy debug cycles
+  . Very easy to read, well documented codebase
+  . Code that a mere mortal can read completely
+  . Write in a functional/ declarative manner
+  . Zero 'structs' or 'class' - synonyms
+
+<-<--------------lonely------------------>->
+
+

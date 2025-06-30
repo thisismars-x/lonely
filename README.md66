@@ -1,0 +1,51 @@
+. ----------------------@mail(+392 new)--------
+. Date: June 4 - June 30
+. From: ***********
+.
+. Addressed to the public,
+.
+. Written in lone company, distributed through github.com/thisismars-x/lonely
+
+.                    M
+. []       {{----}}  O                  7      .
+. []       {{ .. }}  N E E D   eeeeee   7    [[.]]
+. []       {{    }}  S     O   e    e   7     {}
+. []       {{ .. }}  T     G   eeeeee   7     {}
+. []       {{____}}  E     2   e        7     {}
+. [][@][@]           Rs        eeeeeE   7777  {}
+.
+.
+. With sick passion
+. Lethargy and ambition
+. Yours
+. ***********
+.------------------------@(under GPL-license)------
+
+
+Acquintance with lonely,
+
+<-<--------------lonely------------------>->
+
+Read more @goals
+Example: A complete TUI audio player at example/audiobox.go
+
+lonely is for the lonesome programmer
+Intentions:
+  - Convenience is more expensive than complexity(hence, golang)
+  - Readable, highly configurable(~2000 lines of code, maybe?)
+  - Intuitive enough for the average HTML-CSS user
+  - Expressivity is as important as performance(speed, strictly)
+  - Not only hackable, but meant to be hacked if needed
+  - All conveniences other tools might provide
+
+lonely makes no strict restrictions when inferrence is as powerful.
+You could use "ascii", "ASCII", "a", "A", "a(ascii)", or whatever as long
+as it starts with 'a' to mean ASCII-Border. Similar things happen throughout
+lonely in many other ways. lonely is only for programmers 
+who understand the elegance of composition, hate unnecessary abstractions,
+and love programming methodically. Not for web-developers, devops-people,
+etc etc. 
+
+Welcome loners!
+
+<-<--------------lonely------------------>->
