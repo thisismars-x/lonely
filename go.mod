@@ -1,4 +1,4 @@
-module lonely
+module github.com/thisismars-x/lonely
 
 go 1.24.4
 
