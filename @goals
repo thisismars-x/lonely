@@ -13,6 +13,9 @@
   . Write in a functional/ declarative manner
   . Zero 'structs' or 'class' - synonyms
 
+Add this:
+  go get github.com/thisismars-x/lonely@9b1aaa9
+
 <-<--------------lonely------------------>->
 
 
